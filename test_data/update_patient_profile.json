@@ -1,0 +1,9 @@
+{
+  "date_of_birth": "1990-01-15",
+  "gender": "Male",
+  "phone_number": "+1234567890",
+  "address": "123 Main St, City, Country",
+  "insurance_details": "Insurance Co, Policy #12345",
+  "medical_history": "Allergies: Penicillin, Conditions: Hypertension",
+  "emergency_contact": "Jane Doe: +1234567891"
+}
